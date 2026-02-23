@@ -1,16 +1,20 @@
-## Hi there 👋
+# James Carroll | Senior ServiceNow Architect
 
-<!--
-**jc2pointzero/jc2pointzero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Veteran Architect. Clean Logic. Scalable Results.
+With **20+ years** in the ITSM ecosystem, I specialize in bridging legacy stability with modern innovation. I help enterprise clients move away from "quick-fix" technical debt and toward sustainable, OOB-aligned architectures.
 
-Here are some ideas to get you started:
+- 🔭 **Featured Project:** **[Sam-Tracker]** - A real-time PWA built with Firebase and Gemini API, demonstrating rapid prototyping and cloud-state management.
+- 🏗 **Specialties:** Instance Health Audits, "Rescue" Architecting, Flow Designer, and AI Middleware.
+- 🌱 **Currently Exploring:** Integrating Agentic AI into ServiceNow Xanadu workflows.
+- 💬 **Ask me about:** Migrating from Remedy to ServiceNow or optimizing your SDLC for long-term stability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Technical Ecosystem
+**Platforms:** ServiceNow (Xanadu/Washington/Vancouver), Remedy ARS.  
+**Languages:** JavaScript (Glide API), Python, Node.js.  
+**Tools:** Integration Hub, Firebase, Raspberry Pi, Gemini API.
+
+---
+
+**[Fiverr Expert Profile]** | **[Smyrna, GA]** | **[Mets Fan ⚾]**
